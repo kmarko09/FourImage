@@ -1,0 +1,9 @@
+
+#
+# Project configuration file for
+# practice
+#
+
+projectname: practice
+vendorid: com.mycompany
+mainmodule: com.mycompany.practice
